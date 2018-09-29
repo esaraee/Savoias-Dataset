@@ -64,8 +64,8 @@ Please cite the following paper in your publications if it helps you with your r
 SAVOIAS dataset is freely and publicly available under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## Story Behind Naming
-Savoia is a region in Italy. Here is a beautiful picture of Salt crystal in salt brine, salt production at Margherita di Savoia, Apulia, Italy by Franz Aberham via Getty Images. 
-![alt text][https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/savoia.jpg]
+Savoia is derived from [Margherita di Savoia](https://en.wikipedia.org/wiki/Margherita_di_Savoia,_Apulia), a town in Italy. Here is a beautiful picture of Salt crystal in salt brine, salt production at Margherita di Savoia, Apulia, Italy by Franz Aberham via Getty Images. 
+![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/savoia.jpg)
 
 
 ## Credits
