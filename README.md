@@ -19,3 +19,14 @@ application areas, including computer vision.
 ![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/SAVOIAS-image-samples.png)
 
 
+## Acknowledgement
+
+This work was supported in part by [NSF (1421943)](https://nsf.gov/awardsearch/showAward?AWD_ID=1421943) and [NSF (1838193)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838193&HistoricalAwards=false). We would also like to thank the students, [Yifu Hu](http://cs-people.bu.edu/yfhu) and [Yi Zheng](http://cs-people.bu.edu/yizheng/) who prepared the images for the interior design category of our dataset.
+
+## Credits
+
+[Elham Saraee](http://cs-people.bu.edu/esaraee/), [Mona Jalal](http://monajalal.com), [Margrit Betke](http://www.cs.bu.edu/~betke/)
+
+
+
+
