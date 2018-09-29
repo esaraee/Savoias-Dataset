@@ -14,11 +14,11 @@ application areas, including computer vision.
 
 ## Usage
 
-First git clone the repositoty:
+git clone the repositoty:
 ```
 git clone https://github.com/esaraee/Savoias-Dataset.git
 ```
-1420 images of the SAVOIAS dataset are located in the respective 7 categories the belong to in **Images** folder. In addition, if researchers are interested to find the original name of the images they can use the Name_Mapping folder to retreive those. The ground truth for the SAVOIAS images is located in **Ground truth** folder. 
+1420 images of the SAVOIAS dataset are located in the respective 7 categories the belong to in **Images** folder. In addition, if researchers are interested to find the original name of the images they can use the Name_Mapping folder to retreive those. The visual complexity ground-truth scores for the SAVOIAS images is located in **Ground truth** folder. 
 
 
 ### Baseline Comparison for SAVOIAS Dataset
@@ -32,7 +32,7 @@ git clone https://github.com/esaraee/Savoias-Dataset.git
 
 ## Getting help
 
-If you have any question, concern or bug report, please file an issue in this repository's Issue Tracker and we will respond accordingly.
+If you have any question, concern, or bug report, please file an issue in this repository's Issue Tracker and we will respond accordingly.
 
 ## Funding
 This research was partially funded by the following NSF Awards:
@@ -62,6 +62,11 @@ Please cite the following paper in your publications if it helps you with your r
 ## License
 
 SAVOIAS dataset is freely and publicly available under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
+
+## Story Behind Naming
+Savoia is a region in Italy. Here is a beautiful picture of Salt crystal in salt brine, salt production at Margherita di Savoia, Apulia, Italy by Franz Aberham via Getty Images. 
+![alt text][https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/savoia.jpg]
+
 
 ## Credits
 
