@@ -11,10 +11,11 @@ respectively). These findings suggest that (1) state-of-the-art approaches are m
 category-specific method development, which is likely to improve the impact of visual complexity analysis on specific
 application areas, including computer vision.
 
+### Baseline Comparison for SAVOIAS Dataset
 
 ![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/baselines.png)
 
-### Image samples from SAVOIAS dataset
+### Image Samples from SAVOIAS Dataset
 
 ![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/SAVOIAS-image-samples.png)
 
