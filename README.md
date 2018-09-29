@@ -19,10 +19,15 @@ application areas, including computer vision.
 
 ![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/SAVOIAS-image-samples.png)
 
+## Funding
+This research was partially funded by the following NSF Awards:
+
+- [NSF Award #1421943](https://nsf.gov/awardsearch/showAward?AWD_ID=1421943) RI: Small: Using Humans in the Loop to Collect High-quality Annotations from Images and Time-lapse Videos of Cells
+- [NSF Award #1838193](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838193&HistoricalAwards=false) BIGDATA: IA: Multiplatform, Multilingual, and Multimodal Tools for Analyzing Public Communication in over 100 Languages
 
 ## Acknowledgement
 
-This work was supported in part by [NSF (1421943)](https://nsf.gov/awardsearch/showAward?AWD_ID=1421943) and [NSF (1838193)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1838193&HistoricalAwards=false). We would also like to thank the students, [Yifu Hu](http://cs-people.bu.edu/yfhu) and [Yi Zheng](http://cs-people.bu.edu/yizheng/) who prepared the images for the interior design category of our dataset.
+We would like to thank the students, [Yifu Hu](http://cs-people.bu.edu/yfhu) and [Yi Zheng](http://cs-people.bu.edu/yizheng/) who prepared the images for the interior design category of our dataset.
 
 ## Credits
 
