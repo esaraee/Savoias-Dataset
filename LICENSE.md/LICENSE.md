@@ -20,3 +20,6 @@ Access to, and use of, the images, and annotations in this dataset are for resea
 
 ## [Advertisement](http://people.cs.pitt.edu/~kovashka/ads/#image)
 Dataset is publicly available for download and use.
+
+## Interior Design
+The copyright of all the images belongs to the image owners.
