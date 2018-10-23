@@ -44,21 +44,16 @@ This research was partially funded by the following NSF Awards:
 
 We would like to thank the students, [Yifu Hu](http://cs-people.bu.edu/yfhu) and [Yi Zheng](http://cs-people.bu.edu/yizheng/) who prepared the images for the interior design category of our dataset.
 
-## Citation
-<!--- 
+## Citation 
 Please cite the following paper in your publications if it helps you with your research.
 ```
-@inproceedings{SaraeeJaBe19,
-  author    = {Elham Saraee and
-               Mona Jalal and
-               Margrit Betke},
-  title     = {SAVOIAS: A Diverse, Multi-Category Visual Complexity Dataset},
-  booktitle = {2019 {IEEE} Winter Conference on Applications of Computer Vision,
-               {WACV} 2018, Waikoloa Village, HI, USA, Jan 8-10, 2019},
-  year      = {2019}
+@article{saraee2018savoias,
+  title={SAVOIAS: A Diverse, Multi-Category Visual Complexity Dataset},
+  author={Saraee, Elham and Jalal, Mona and Betke, Margrit},
+  journal={arXiv preprint arXiv:1810.01771},
+  year={2018}
 }
-```
--->
+
 ## License
 
 SAVOIAS dataset is freely and publicly available under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
