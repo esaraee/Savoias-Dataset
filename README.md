@@ -29,6 +29,11 @@ git clone https://github.com/esaraee/Savoias-Dataset.git
 
 ![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/SAVOIAS-image-samples.png)
 
+### Results of Deep Learning-based Visual Complexity Prediction on SAVOIAS Dataset
+
+Sample images of the Savoias dataset and their corresponding energy maps from the fourth max-pooling layer in the VGG-16 architecture trained for the scene recognitiontask. The images from top left to bottom right belong to datasets Advertisement, Places2, MASSVIS (Visualization and Infographics), MSCOCO, IKEA, and art respectively. Notethat the last three images belong to the art dataset where the last sample is from the Suprematism category.
+
+![alt text](https://raw.githubusercontent.com/esaraee/Savoias-Dataset/master/fourth_max_pooling.png)
 
 ## Getting help
 
