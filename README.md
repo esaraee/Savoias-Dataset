@@ -47,12 +47,22 @@ We would like to thank the students, [Yifu Hu](http://cs-people.bu.edu/yfhu) and
 ## Citation 
 Please cite the following paper in your publications if it helps you with your research.
 ```
-@article{saraee2018savoias,
+@article{SaraeeJaBe18,
   title={SAVOIAS: A Diverse, Multi-Category Visual Complexity Dataset},
   author={Saraee, Elham and Jalal, Mona and Betke, Margrit},
   journal={arXiv preprint arXiv:1810.01771},
   year={2018}
 }
+
+@article{SaraeeJaBe20,
+  title={Visual complexity analysis using deep intermediate-layer features},
+  author={Saraee, Elham and Jalal, Mona and Betke, Margrit},
+  journal={Computer Vision and Image Understanding},
+  pages={102949},
+  year={2020},
+  publisher={Elsevier}
+}
+
 ```
 ## License
 
